@@ -1,0 +1,23 @@
+{
+  "name": "exercise38degrees",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile &&  node ./build/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedafk/Exercise38Degrees.git"
+  },
+  "author": "Ahmed Abdulkadir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmedafk/Exercise38Degrees/issues"
+  },
+  "homepage": "https://github.com/Ahmedafk/Exercise38Degrees#readme"
+}
